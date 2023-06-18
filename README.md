@@ -1,10 +1,10 @@
-<h1 align="center">How to Create an AI-QRCode</h1>
+<h1 align="center">How to Create an QRCode Art</h1>
 
 <p align="center">
   <img src="https://github.com/Nazku-com/AI-QRCodeWithColab/assets/52348220/9a0a32ed-dc43-424b-9f3d-1aff054ae59e" alt="Generated QR Code"/>
 </p>
 
-<p align="center">This repository provides a comprehensive guide on how to create anime-inspired QR codes using Stable Diffusion.</p>
+<p align="center">This repository provides a comprehensive guide on how to create QR codes Art using Stable Diffusion.</p>
 
 ## 📚 Table of Contents
 
@@ -31,7 +31,7 @@ Navigate to `Settings` and `ControlNet`. Make sure `Multi ControlNet: Max models
 
 ## 🎨 QR Code Generation
 
-Follow the steps below to generate your anime-inspired QR code:
+Follow the steps below to generate your QR code Art:
 
 1. Open `ControlNet` -> `ControlNet Unit 0` and upload your QRCode.
    ![ControlNet Unit 0](https://github.com/Nazku-com/AI-QRCodeWithColab/assets/52348220/f78bf5eb-4492-47da-9421-12f9bfdc2db1)
